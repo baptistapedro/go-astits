@@ -1,0 +1,5 @@
+project: go-astits
+target: go-astits
+
+cmds:
+  - cmd: /astits-probe -i @@
